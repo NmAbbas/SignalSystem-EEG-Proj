@@ -4,3 +4,5 @@ This project, completed as part of my Signals and Systems course, involves the a
 
 ## Phase 1: EEG Data Investigation and Analysis
 In this phase, we were provided with raw EEG data and utilized the EEGLAB Toolbox to conduct a comprehensive investigation. Initially, we conducted research on the nature of EEG signals and the methodologies involved in recording such data. Following this introductory research, we employed a step-by-step guide to process our own data and extract valuable information.
+
+## Phase 2: Classification 
